@@ -1,3 +1,6 @@
 [submodule "ms-user"]
 	path = ms-user
 	url = https://github.com/jvictornascimento/ms-user.git
+[submodule "ms-send-email"]
+	path = ms-send-email
+	url = https://github.com/jvictornascimento/ms-send-email.git
