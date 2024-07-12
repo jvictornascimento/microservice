@@ -1,0 +1,3 @@
+[submodule "ms-user"]
+	path = ms-user
+	url = https://github.com/jvictornascimento/ms-user.git
